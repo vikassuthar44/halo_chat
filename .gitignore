@@ -31,3 +31,10 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+#remove google-service.json file
+*.json
+
+#remove ios plist file
+*.plist
+
