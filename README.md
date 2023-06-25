@@ -61,6 +61,18 @@ Services and utilities, including authentication, database, and provider state m
 Reusable UI components used throughout the app.
 Feel free to explore the codebase and make any necessary modifications or customizations according to your requirements.
 
+# Screenshot's
+![alt text](https://github.com/vikassuthar44/halo_chat/blob/main/screenshots/screenshot1.png?raw=true)
+![alt text](https://github.com/vikassuthar44/halo_chat/blob/main/screenshots/screenshot2.png?raw=true)
+![alt text](https://github.com/vikassuthar44/halo_chat/blob/main/screenshots/screenshot3.png?raw=true)
+![alt text](https://github.com/vikassuthar44/halo_chat/blob/main/screenshots/screenshot4.png?raw=true)
+![alt text](https://github.com/vikassuthar44/halo_chat/blob/main/screenshots/screenshot5.png?raw=true)
+![alt text](https://github.com/vikassuthar44/halo_chat/blob/main/screenshots/screenshot6.png?raw=true)
+![alt text](https://github.com/vikassuthar44/halo_chat/blob/main/screenshots/screenshot7.png?raw=true)
+![alt text](https://github.com/vikassuthar44/halo_chat/blob/main/screenshots/screenshot8.png?raw=true)
+![alt text](https://github.com/vikassuthar44/halo_chat/blob/main/screenshots/screenshot9.png?raw=true)
+![alt text](https://github.com/vikassuthar44/halo_chat/blob/main/screenshots/screenshot10.png?raw=true)
+
 ## Contributing
 Contributions to the Flutter messaging app are welcome! If you encounter any bugs or have suggestions for new features, please open an issue or submit a pull request.
 
